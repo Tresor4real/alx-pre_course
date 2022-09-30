@@ -1,3 +1,3 @@
 My Second readme
- up_to_date
+ how to be up to date on git
 
