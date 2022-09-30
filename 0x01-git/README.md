@@ -1,2 +1,1 @@
-My Second readme
-How to be updte in git
+How to be update in git
